@@ -1,0 +1,23 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+BuildingEscape/Content/StarterContent/Textures
+BuildingEscape/Content/StarterContent/HDRI
+BuildingEscape/Content/InfinityBladeWeapons/
+BuildingEscape/Content/InfinityBladeEffects/
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+ *.sln
+ *.sdf
+ *.opensdf
+ *.suo
+ 
+BuildingEscape/BuildingEscape.sdf
